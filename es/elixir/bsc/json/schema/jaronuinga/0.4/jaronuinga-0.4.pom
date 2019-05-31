@@ -11,6 +11,15 @@
     <version>0.4</version>
     <packaging>jar</packaging>
 
+    <description>
+        JSON Schema validator.
+    </description>
+
+    <organization>
+        <name>Barcelona Supercomputing Center</name>
+        <url>https://www.bsc.es/</url>
+    </organization>
+
     <developers>
         <developer>
           <id>redmitry</id>
